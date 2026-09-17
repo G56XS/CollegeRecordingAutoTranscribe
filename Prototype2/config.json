@@ -1,0 +1,21 @@
+{
+  "api_id": 31811638,
+  "api_hash": "b99593bdc611db7fda778796e2181a99",
+  "phone": "+6282217903500",
+
+  "session_name": "archive_session",
+  "root_folder": ".",
+  "poll_interval_minutes": 30,
+  "quiet_period_seconds": 20,
+  "history_scan_limit": 300,
+
+  "groups": [
+    {
+      "invite_link": "https://t.me/+CixsHDFT9TRiMDM1",
+      "subject_folder": "Matematika Diskrit"
+    }
+  ],
+
+  "transcriber_script": "archive_transcriber.py",
+  "transcriber_args": ["--no-pause"]
+}
